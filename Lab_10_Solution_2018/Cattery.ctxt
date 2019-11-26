@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Cattery
+comment0.text=\r\n\ Cattery\ class\ --\ COMP\ 1409\ lab\ 7\r\n\ A\ Cattery\ object\ contains\ a\ collection\ of\ Cat\ objects\r\n\ \r\n\ @author\ Colleen\ Penrowley\ \r\n\ @version\ January\ 2007\r\n
+comment1.params=businessName
+comment1.target=Cattery(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cattery\r\n\ @param\ businessName\ name\ of\ cattery\r\n
+comment2.params=
+comment2.target=Cattery()
+comment2.text=\r\n\ Default\ constructor\ for\ Cattery\r\n
+comment3.params=name
+comment3.target=void\ setBusinessName(java.lang.String)
+comment3.text=\r\n\ Method\ setBusinessName\r\n\r\n\ @param\ name\ a\ parameter\ to\ set\ business\ name\r\n
+comment4.params=catToAdd
+comment4.target=void\ addCat(Cat)
+comment4.text=Add\ a\ Cat\ to\ the\ Cattery\ \r\n\ @param\ \ catToAdd\r\n
+comment5.params=position
+comment5.target=void\ showCat(int)
+comment5.text=\r\n\ Display\ the\ details\ of\ the\ Cat\ object\ at\ the\ specified\r\n\ position\ in\ the\ collection.\ Check\ to\ ensure\ a\ valid\ index.\r\n\ \r\n\ @param\ position\ which\ cat\ to\ display\r\n
+comment6.params=position
+comment6.target=void\ removeCat(int)
+comment6.text=\r\n\ Remove\ the\ Cat\ object\ at\ the\ specified\ position.\ Check\ to\ ensure\r\n\ a\ valid\ index.\r\n\ \r\n\ @param\ position\ which\ cat\ to\ remove\r\n
+comment7.params=
+comment7.target=void\ displayNames()
+comment7.text=\r\n\ Display\ the\ names\ of\ all\ the\ cats\ in\ the\ collection\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
