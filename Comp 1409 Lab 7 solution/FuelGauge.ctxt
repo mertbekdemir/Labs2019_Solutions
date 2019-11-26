@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FuelGauge()
+comment0.text=\r\n\ FuelGage\ default\ Constructor\r\n\r\n
+comment1.params=amountOfFuelInLiters
+comment1.target=FuelGauge(int)
+comment1.text=\r\n\ FuelGage\ Constructor\r\n\r\n\ @param\ amountOfFuelInLiters\ to\ set\ amountOfFuelInLiters\r\n
+comment2.params=
+comment2.target=int\ getAmountOfFuelInLiters()
+comment2.text=\r\n\ Method\ getAmountOfFuelInLiters\r\n\r\n\ @return\ The\ return\ amountOfFuelInLiters\r\n
+comment3.params=amountOfFuelInLiters
+comment3.target=void\ setAmountOfFuelInLiters(int)
+comment3.text=\r\n\ Method\ setAmountOfFuelInLiters\r\n\r\n\ @param\ amountOfFuelInLiters\ A\ parameter\ to\ set\ amountOfFuelInLiters\r\n
+comment4.params=
+comment4.target=void\ useFuel()
+comment4.text=\r\n\ Method\ useFuel\r\n\r\n
+comment5.params=
+comment5.target=void\ addFuel()
+comment5.text=\r\n\ Method\ addFuel\r\n\r\n
+numComments=6

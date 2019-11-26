@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Room()
+comment0.text=\r\n\ Room\ default\ Constructor\r\n\r\n
+comment1.params=newLenghtInFoot\ newWidthInFoot
+comment1.target=Room(double,\ double)
+comment1.text=\r\n\ Room\ Constructor\r\n\r\n\ @param\ newLenghtInFoot\ A\ parameter\ to\ set\ lenghtInFoot\r\n\ @param\ newWidthInFoot\ A\ parameter\ to\ set\ widthInFoot\r\n
+comment2.params=newLengthInFoot
+comment2.target=void\ setLengthInFoot(double)
+comment2.text=\r\n\ Method\ setLengthInFoot\r\n\r\n\ @param\ newLengthInFoot\ A\ parameter\ to\ set\ lenghtInFoot\r\n
+comment3.params=newWidthInFoot
+comment3.target=void\ setWidthInFoot(double)
+comment3.text=\r\n\ Method\ setWidthInFoot\r\n\r\n\ @param\ newWidthInFoot\ A\ parameter\ to\ set\ widthInFoot\r\n
+comment4.params=
+comment4.target=double\ getLengthInFoot()
+comment4.text=\r\n\ Method\ getLenghtInFoot\r\n\r\n\ @return\ The\ return\ value\ lengthInFoot\r\n
+comment5.params=
+comment5.target=double\ getWidthInFoot()
+comment5.text=\r\n\ Method\ getWidthInFoot\r\n\r\n\ @return\ The\ return\ value\ widthInFoot\r\n
+comment6.params=
+comment6.target=double\ calculateArea()
+comment6.text=\r\n\ Method\ calculateArea\r\n\r\n\ @return\ The\ return\ value\ the\ area\ of\ the\ room\r\n
+numComments=7

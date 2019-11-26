@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Stock\ here.\r\n\ \r\n\ @author\ (rana\ Alsammarraie)\ \r\n\ @version\ (2014-02-24)\r\n
+comment1.params=
+comment1.target=Stock()
+comment1.text=\r\n\ Stock\ \ default\ Constructor\r\n\r\n
+comment2.params=stockSymbol\ sharePrice
+comment2.target=Stock(java.lang.String,\ int)
+comment2.text=\r\n\ Stock\ Constructor\r\n\r\n\ @param\ stockSymbol\ A\ parameter\ to\ set\ stockSymbol\r\n\ @param\ sharePrice\ A\ parameter\ to\ set\ sharePrice\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStockSymbol()
+comment3.text=\r\n\ Method\ getStockSymbol\r\n\r\n\ @return\ The\ return\ stockSymbol\r\n
+comment4.params=
+comment4.target=int\ getSharePrice()
+comment4.text=\r\n\ Method\ getSharePrice\r\n\r\n\ @return\ The\ return\ sharePrice\r\n
+comment5.params=stockSymbol
+comment5.target=void\ setStockSymbol(java.lang.String)
+comment5.text=\r\n\ Method\ setStockSymbol\r\n\r\n\ @param\ stockSymbol\ A\ parameter\ to\ set\ stockSymbol\r\n
+comment6.params=sharePrice
+comment6.target=void\ setSharePrice(int)
+comment6.text=\r\n\ Method\ setSharePrice\r\n\r\n\ @param\ sharePrice\ A\ parameter\ to\ set\ sharePrice\r\n
+comment7.params=
+comment7.target=void\ displayDetails()
+comment7.text=\r\n\ Method\ displayDetails\r\n\r\n
+numComments=8

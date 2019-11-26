@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Play
+comment1.params=
+comment1.target=Play()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Play\r\n
+comment2.params=
+comment2.target=void\ stringPlay()
+comment2.text=\r\n\ Method\ stringPlay\r\n\ prompts\ the\ user\ for\ a\ string\ and\ displays\ the\ string\ \r\n\ in\ a\ camel\ case\ format\ as\ the\ string\ length\ number\ of\ times\r\n\r\n
+comment3.params=
+comment3.target=void\ getMultiplicationTable()
+comment3.text=\r\n\ Method\ getMultiplicationTable\r\n\r\n
+comment4.params=
+comment4.target=void\ guessTheNumber()
+comment4.text=\r\n\ Method\ guessTheNumber\r\n\ \ prompt\ the\ user\ to\ guess\ a\ random\ generated\ number\ between\ 1\ and\ 10\r\n\ \ inclusive\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Method\ main\r\n\r\n\ @param\ args\ A\ parameter\r\n
+numComments=6

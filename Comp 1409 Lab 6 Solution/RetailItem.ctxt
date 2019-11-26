@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RetailItem()
+comment0.text=\r\n\ RetailItem\ defaul\ Constructor\r\n\r\n
+comment1.params=newItemDescription\ newItemPriceInCAD\ newIsOnDemand\ newNumberOfUnitsInStock
+comment1.target=RetailItem(java.lang.String,\ double,\ boolean,\ int)
+comment1.text=\r\n\ RetailItem\ non-default\ constructor\r\n\r\n\ @param\ newItemDescription\ A\ parameter\r\n\ @param\ newItemPriceInCAD\ A\ parameter\r\n\ @param\ newIsOnDemand\ A\ parameter\r\n\ @param\ newNumberOfUnitsInStock\ A\ parameter\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemDescription()
+comment2.text=\r\n\ Method\ getItemDescription\r\n\r\n\ @return\ The\ itemDescription\ value\r\n
+comment3.params=
+comment3.target=double\ getItemPriceInCAD()
+comment3.text=\r\n\ Method\ getItemPriceInCAD\r\n\r\n\ @return\ The\ itemPriceInCAD\ value\r\n
+comment4.params=
+comment4.target=boolean\ getIsOnDemand()
+comment4.text=\r\n\ Method\ getIsOnDemand\r\n\r\n\ @return\ The\ isOnDemand\ value\r\n
+comment5.params=
+comment5.target=int\ getNumberOfUnitsInStock()
+comment5.text=\r\n\ Method\ getNumberOfUnitsInStock\r\n\r\n\ @return\ The\ numberOfUnitsInStock\ value\r\n
+numComments=6

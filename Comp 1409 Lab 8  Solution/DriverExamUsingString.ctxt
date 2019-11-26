@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=DriverExamUsingString
+comment0.text=\r\n\ Driver\ Exam\r\n\ @author(Rana\ Alsammarraie)\r\n\ @version(2016/11/2)\r\n
+comment1.params=
+comment1.target=DriverExamUsingString()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DriverExam\r\n
+comment2.params=
+comment2.target=void\ promptStudentAnswers()
+comment2.text=\r\n\ Fills\ the\ array\ with\ responses\ from\ the\ test-taker.\r\n
+comment3.params=response
+comment3.target=boolean\ validate(java.lang.String)
+comment3.text=\r\n\ Validates\ the\ input\ char.\r\n\ @param\ response\ -\ char\ the\ user\ typed\r\n\ @return\ true\ if\ valid\ false\ if\ not\r\n
+comment4.params=
+comment4.target=int\ getTotalCorrectAnswers()
+comment4.text=\r\n\ Calculates\ correct\ answers\r\n\ @return\ number\ of\ correct\ answers\r\n
+comment5.params=
+comment5.target=int\ getTotalIncorrectAnswers()
+comment5.text=\r\n\ Calculates\ incorrect\ answers\r\n\ @return\ number\ of\ incorrect\ answers\r\n
+comment6.params=
+comment6.target=boolean\ doesStudentPass()
+comment6.text=\r\n\ @return\ true\ if\ student\ passes\ false\ if\ not\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=DriverExam
+comment1.params=
+comment1.target=DriverExam()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DriverExam\r\n
+comment2.params=
+comment2.target=void\ promptStudentAnswers()
+comment2.text=\r\n\ Fills\ the\ array\ with\ responses\ from\ the\ test-taker.\r\n
+comment3.params=toConvert
+comment3.target=char\ lowerCaseChar(char)
+comment3.text=\r\n\ @param\ uppercase\ char\ to\ be\ converted\r\n\ @return\ the\ lowercase\ version\ of\ the\ input\ char\r\n
+comment4.params=response
+comment4.target=boolean\ validate(char)
+comment4.text=\r\n\ Validates\ the\ input\ char.\r\n\ @param\ response\ -\ char\ the\ user\ typed\r\n\ @return\ true\ if\ valid\ false\ if\ not\r\n
+comment5.params=
+comment5.target=int\ getTotalCorrectAnswers()
+comment5.text=\r\n\ Calculates\ correct\ answers\r\n\ @return\ number\ of\ correct\ answers\r\n
+comment6.params=
+comment6.target=int\ getTotalIncorrectAnswers()
+comment6.text=\r\n\ Calculates\ incorrect\ answers\r\n\ @return\ number\ of\ incorrect\ answers\r\n
+comment7.params=
+comment7.target=boolean\ doesStudentPass()
+comment7.text=\r\n\ @return\ true\ if\ student\ passes\ false\ if\ not\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\r\n\ Method\ main\r\n\r\n\ @param\ args\ \r\n
+numComments=9

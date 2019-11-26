@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MathUtilities
+comment0.text=\r\n\ Class\ MathUtilities\ to\ provide\ some\ common\ math\ functionality.\r\n\ \r\n\ @author\ (Rana\ Alsammarraie)\ \r\n\ @version\ (2018)\r\n
+comment1.params=base\ exponent
+comment1.target=int\ power(int,\ int)
+comment2.params=number1\ operation\ number2
+comment2.target=void\ calculator(double,\ char,\ double)
+comment2.text=\r\n\ Method\ calculator\r\n\r\n\ @param\ number1\ A\ parameter\ which\ is\ the\ first\ operand\r\n\ @param\ operation\ A\ parameter\ to\ specify\ the\ operation\r\n\ @param\ number2\ A\ parameter\ which\ is\ the\ second\ operand\r\n
+comment3.params=number
+comment3.target=double\ sumOddNumbers(int)
+comment3.text=\r\n\ Method\ sumOddNumbers\r\n\r\n\ @param\ number\ A\ parameter\ to\ set\ the\ upper\ limit\r\n\ @return\ The\ the\ sum\ of\ all\ odd\ numbers\ from\ 0\ to\ number\r\n
+comment4.params=number
+comment4.target=double\ sumOddNumbers2(int)
+comment4.text=\r\n\ Method\ sumOddNumbers2\r\n\r\n\ @param\ number\ A\ parameter\ to\ set\ the\ upper\ limit\r\n\ @return\ The\ the\ sum\ of\ all\ odd\ numbers\ from\ 0\ to\ number\r\n
+comment5.params=number
+comment5.target=void\ displaySquareNumbers(int)
+comment5.text=\r\n\ Method\ displaySquareNumbers\r\n\r\n\ @param\ number\ A\ parameter\ to\ set\ the\ limit\ of\ the\ loop\r\n
+comment6.params=number
+comment6.target=void\ getFactorial(int)
+comment6.text=\r\n\ Method\ getFactorial\r\n\r\n\ @param\ number\ A\ parameter\ to\ calculate\ the\ factorial\ of\r\n
+comment7.params=number1\ number2
+comment7.target=int\ multiply(int,\ int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
